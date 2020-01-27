@@ -1,0 +1,30 @@
+
+div{
+	border: 50px solid green;
+	padding: 100px;
+	margin-right: 200px; 
+	font-family: Garamond;
+	transition: [*property] [*transition-duration] [transition-timing-function] [transition-delay];
+   }
+
+   button: hover{
+   	background-color: rgba(0,250,140,0.8);
+   	width: 200px;
+   	height: 100px;
+   	 }
+
+body{
+	background-image:url(https://i0.wp.com/techpoint.ng/wp-content/uploads/2018/07/VGG-vibranium-1.jpg?ssl=1); 
+	background-color: rgba(0,200,240,0.8);
+	background-size: 200px
+	repeat:no-repeat;
+}
+
+input:hover{
+
+    font-weight: bold !important;
+    color: white;
+    background-color: rgba(243, 223, 111, 1.0);
+
+}
+
